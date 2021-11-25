@@ -63,7 +63,7 @@ A very simple Laravel 8 + Vue 2 + AdminLTE 3 based Curd Starter template for SPA
 - `php artisan passport:install`
 - Application http://localhost:8008/
 - Adminer for Database http://localhost:8080/
-- DBhost: yourIP:3307, user: root, Password: 123456
+- DBhost: 127.0.0.1:3307, user: root, Password: 
 
 
 ## Unit Test
